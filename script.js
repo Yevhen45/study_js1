@@ -33,3 +33,4 @@
 // let a = 6;
 // let b = a + 10;
 // console.log(b)
+let a = 10;
