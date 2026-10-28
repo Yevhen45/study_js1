@@ -35,3 +35,5 @@
 // console.log(b)
 let a = 10;
 let b = '0'
+
+let f = 100;
