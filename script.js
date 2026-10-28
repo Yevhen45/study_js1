@@ -34,3 +34,4 @@
 // let b = a + 10;
 // console.log(b)
 let a = 10;
+let b = '0'
